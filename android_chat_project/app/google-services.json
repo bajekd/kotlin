@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "318155820143",
+    "firebase_url": "https://aib-acp.firebaseio.com",
+    "project_id": "aib-acp",
+    "storage_bucket": "aib-acp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318155820143:android:d49319de782b2a92e2919a",
+        "android_client_info": {
+          "package_name": "com.example.acp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318155820143-aajuhsnqch0v3udppa14lscontpqij68.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuMYlURU50UXN8rKjPVAQB1VePRl59bhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318155820143-aajuhsnqch0v3udppa14lscontpqij68.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
